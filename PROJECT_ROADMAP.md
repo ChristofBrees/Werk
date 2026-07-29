@@ -43,8 +43,8 @@ The development of the Werk platform is split into six sequential phases, transf
 *   **Deliverables**:
     *   [x] Set up repository folder structure (`Apps/`, `Agents/`, `Automations/`).
     *   [x] Configure base environment settings (`.gitignore`, `README.md`).
-    *   [ ] Initialize Supabase schemas (users, tasks, executions, logs).
-    *   [ ] Connect Github to Supabase for automated migration workflows.
+    *   [x] Initialize Supabase schemas (users, tasks, executions, logs).
+    *   [x] Connect Github to Supabase for automated migration workflows.
 
 ### Phase 2: Gateway & Core Orchestration (Q4 2026)
 *   **Goal**: Establish the communication backbone and central request router.
